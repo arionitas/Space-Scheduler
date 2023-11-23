@@ -50,7 +50,7 @@ A Space Calendar to organise your hectic day.
 
 ## Deployed Project Link
 
-
+https://arionitas.github.io/Space-Scheduler/
 
 
 ## Usage 
